@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\actividades.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\actividades.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\actividades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\actividades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA07717-E675-4C61-A908-9FF7D2D80364}|unicampo.BLL\\unicampo.BLL.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.bll\\resenaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA07717-E675-4C61-A908-9FF7D2D80364}|unicampo.BLL\\unicampo.BLL.csproj|solutionrelative:unicampo.bll\\resenaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3770E-B20F-4390-8613-691FAADD975E}|unicampo.DAL\\unicampo.DAL.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.dal\\resenarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3770E-B20F-4390-8613-691FAADD975E}|unicampo.DAL\\unicampo.DAL.csproj|solutionrelative:unicampo.dal\\resenarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA036F-34F2-4361-BC34-F63CE21FE0B6}|unicampo.entities\\unicampo.entities.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.entities\\resenadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA036F-34F2-4361-BC34-F63CE21FE0B6}|unicampo.entities\\unicampo.entities.csproj|solutionrelative:unicampo.entities\\resenadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\presenters\\actividadespresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\presenters\\actividadespresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\views\\actividadesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\views\\actividadesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA07717-E675-4C61-A908-9FF7D2D80364}|unicampo.BLL\\unicampo.BLL.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.bll\\inscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA07717-E675-4C61-A908-9FF7D2D80364}|unicampo.BLL\\unicampo.BLL.csproj|solutionrelative:unicampo.bll\\inscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3770E-B20F-4390-8613-691FAADD975E}|unicampo.DAL\\unicampo.DAL.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.dal\\inscripcionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3770E-B20F-4390-8613-691FAADD975E}|unicampo.DAL\\unicampo.DAL.csproj|solutionrelative:unicampo.dal\\inscripcionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA07717-E675-4C61-A908-9FF7D2D80364}|unicampo.BLL\\unicampo.BLL.csproj|C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.bll\\actividadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA07717-E675-4C61-A908-9FF7D2D80364}|unicampo.BLL\\unicampo.BLL.csproj|solutionrelative:unicampo.bll\\actividadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3770E-B20F-4390-8613-691FAADD975E}|unicampo.DAL\\unicampo.DAL.csproj|C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.dal\\actividadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3770E-B20F-4390-8613-691FAADD975E}|unicampo.DAL\\unicampo.DAL.csproj|solutionrelative:unicampo.dal\\actividadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\views\\iloginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\views\\iloginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\presenters\\loginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\presenters\\loginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA07717-E675-4C61-A908-9FF7D2D80364}|unicampo.BLL\\unicampo.BLL.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA07717-E675-4C61-A908-9FF7D2D80364}|unicampo.BLL\\unicampo.BLL.csproj|solutionrelative:unicampo.bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A3770E-B20F-4390-8613-691FAADD975E}|unicampo.DAL\\unicampo.DAL.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.dal\\usuarioreporsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A3770E-B20F-4390-8613-691FAADD975E}|unicampo.DAL\\unicampo.DAL.csproj|solutionrelative:unicampo.dal\\usuarioreporsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA036F-34F2-4361-BC34-F63CE21FE0B6}|unicampo.entities\\unicampo.entities.csproj|c:\\users\\57304\\desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.entities\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA036F-34F2-4361-BC34-F63CE21FE0B6}|unicampo.entities\\unicampo.entities.csproj|solutionrelative:unicampo.entities\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{019A8F2E-38A7-4E88-983D-889DE71EFFBF}|unicampo\\unicampo.csproj|solutionrelative:unicampo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA036F-34F2-4361-BC34-F63CE21FE0B6}|unicampo.entities\\unicampo.entities.csproj|C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.entities\\actividaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA036F-34F2-4361-BC34-F63CE21FE0B6}|unicampo.entities\\unicampo.entities.csproj|solutionrelative:unicampo.entities\\actividaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActividadesPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Presenters\\ActividadesPresenter.cs",
+              "RelativeDocumentMoniker": "unicampo\\Presenters\\ActividadesPresenter.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Presenters\\ActividadesPresenter.cs",
+              "RelativeToolTip": "unicampo\\Presenters\\ActividadesPresenter.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:48:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Actividades.aspx",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Actividades.aspx",
+              "RelativeDocumentMoniker": "unicampo\\Actividades.aspx",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Actividades.aspx",
+              "RelativeToolTip": "unicampo\\Actividades.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-12T03:49:39.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actividades.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Actividades.aspx.cs",
+              "RelativeDocumentMoniker": "unicampo\\Actividades.aspx.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Actividades.aspx.cs",
+              "RelativeToolTip": "unicampo\\Actividades.aspx.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAiwLUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:13:05.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResenaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.DAL\\ResenaRepository.cs",
+              "RelativeDocumentMoniker": "unicampo.DAL\\ResenaRepository.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.DAL\\ResenaRepository.cs",
+              "RelativeToolTip": "unicampo.DAL\\ResenaRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:51:19.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "unicampo\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Login.aspx.cs",
+              "RelativeToolTip": "unicampo\\Login.aspx.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:36:52.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Login.aspx",
+              "RelativeDocumentMoniker": "unicampo\\Login.aspx",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Login.aspx",
+              "RelativeToolTip": "unicampo\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-19T17:31:46.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActividadesView.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Views\\ActividadesView.cs",
+              "RelativeDocumentMoniker": "unicampo\\Views\\ActividadesView.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Views\\ActividadesView.cs",
+              "RelativeToolTip": "unicampo\\Views\\ActividadesView.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T02:41:12.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResenaService.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.BLL\\ResenaService.cs",
+              "RelativeDocumentMoniker": "unicampo.BLL\\ResenaService.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.BLL\\ResenaService.cs",
+              "RelativeToolTip": "unicampo.BLL\\ResenaService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:52:19.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResenaDto.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.entities\\ResenaDto.cs",
+              "RelativeDocumentMoniker": "unicampo.entities\\ResenaDto.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.entities\\ResenaDto.cs",
+              "RelativeToolTip": "unicampo.entities\\ResenaDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:50:14.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InscripcionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.DAL\\InscripcionRepository.cs",
+              "RelativeDocumentMoniker": "unicampo.DAL\\InscripcionRepository.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.DAL\\InscripcionRepository.cs",
+              "RelativeToolTip": "unicampo.DAL\\InscripcionRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:15:28.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InscripcionService.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.BLL\\InscripcionService.cs",
+              "RelativeDocumentMoniker": "unicampo.BLL\\InscripcionService.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.BLL\\InscripcionService.cs",
+              "RelativeToolTip": "unicampo.BLL\\InscripcionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:17:55.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActividadService.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.BLL\\ActividadService.cs",
+              "RelativeDocumentMoniker": "unicampo.BLL\\ActividadService.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.BLL\\ActividadService.cs",
+              "RelativeToolTip": "unicampo.BLL\\ActividadService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T02:35:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActividadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.DAL\\ActividadRepository.cs",
+              "RelativeDocumentMoniker": "unicampo.DAL\\ActividadRepository.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.DAL\\ActividadRepository.cs",
+              "RelativeToolTip": "unicampo.DAL\\ActividadRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T03:38:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioReporsitory.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.DAL\\UsuarioReporsitory.cs",
+              "RelativeDocumentMoniker": "unicampo.DAL\\UsuarioReporsitory.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.DAL\\UsuarioReporsitory.cs",
+              "RelativeToolTip": "unicampo.DAL\\UsuarioReporsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:27:51.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.BLL\\AuthService.cs",
+              "RelativeDocumentMoniker": "unicampo.BLL\\AuthService.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.BLL\\AuthService.cs",
+              "RelativeToolTip": "unicampo.BLL\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:28:41.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Presenters\\LoginPresenter.cs",
+              "RelativeDocumentMoniker": "unicampo\\Presenters\\LoginPresenter.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Presenters\\LoginPresenter.cs",
+              "RelativeToolTip": "unicampo\\Presenters\\LoginPresenter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:29:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILoginView.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Views\\ILoginView.cs",
+              "RelativeDocumentMoniker": "unicampo\\Views\\ILoginView.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Views\\ILoginView.cs",
+              "RelativeToolTip": "unicampo\\Views\\ILoginView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:30:57.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.entities\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "unicampo.entities\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.entities\\UsuarioDto.cs",
+              "RelativeToolTip": "unicampo.entities\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T17:27:16.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "unicampo\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Default.aspx.cs",
+              "RelativeToolTip": "unicampo\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T05:25:16.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Web.config",
+              "RelativeDocumentMoniker": "unicampo\\Web.config",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo\\Web.config",
+              "RelativeToolTip": "unicampo\\Web.config",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-12T01:56:02.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ActividadDto.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.entities\\ActividadDto.cs",
+              "RelativeDocumentMoniker": "unicampo.entities\\ActividadDto.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\trabajos de desarrollo web 2\\unicampo\\unicampo.entities\\ActividadDto.cs",
+              "RelativeToolTip": "unicampo.entities\\ActividadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T04:07:48.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

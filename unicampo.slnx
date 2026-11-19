@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="unicampo.BLL/unicampo.BLL.csproj" Id="6ea07717-e675-4c61-a908-9ff7d2d80364" />
+  <Project Path="unicampo.DAL/unicampo.DAL.csproj" Id="c1a3770e-b20f-4390-8613-691faadd975e" />
+  <Project Path="unicampo.entities/unicampo.entities.csproj" Id="0eca036f-34f2-4361-bc34-f63ce21fe0b6" />
+  <Project Path="unicampo/unicampo.csproj" Id="019a8f2e-38a7-4e88-983d-889de71effbf" />
+</Solution>
