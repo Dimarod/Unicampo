@@ -1,0 +1,141 @@
+% --- UNIVERSAL PREAMBLE BLOCK ---
+\documentclass[11pt, a4paper]{article}
+\usepackage[a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
+\usepackage{fontspec}
+
+\usepackage[spanish, bidi=basic, provide=*]{babel}
+
+\babelprovide[import, onchar=ids fonts]{spanish}
+\babelprovide[import, onchar=ids fonts]{english}
+
+% Set default/Latin font to Sans Serif in the main (rm) slot
+\babelfont{rm}{Noto Sans}
+
+% Add because main language is not English
+\usepackage{enumitem}
+\setlist[itemize]{label=-}
+% ---------------------------------
+
+\usepackage{booktabs}
+\usepackage{hyperref}
+
+\begin{document}
+
+% --- PORTADA ---
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    
+    {\Huge\bfseries Corporación Universitaria Americana\par}
+    \vspace{1cm}
+    {\Large\bfseries Asignatura: Desarrollo de Aplicaciones Web II\par}
+    \vspace{2cm}
+    
+    {\huge\bfseries Informe Técnico: Proyecto UniCampus\par}
+    {\Large Entrega Final (100\%) - Sistema Transaccional Completo\par}
+    \vspace{3cm}
+    
+    {\Large\bfseries Estudiante(s):\par}
+    {\Large Juan José Barrera Hurtado\par}
+    {\Large Diego Maestre\par}
+    
+    \vspace{2cm}
+    {\Large\bfseries Docente:\par}
+    {\Large Ingeniera Cindy Fuentes\par}
+    
+    \vfill
+    
+    {\large Enlace al repositorio de GitHub:\par}
+    {\normalsize \url{https://github.com/Dimarod/Unicampo.git}}\par
+    
+    \vspace{1cm}
+    {\large Noviembre de 2026\par}
+\end{titlepage}
+
+% --- CONTENIDO ---
+\newpage
+\tableofcontents
+\newpage
+
+\section{Descripción del Proyecto y Alcance Final}
+El proyecto UniCampus es una plataforma web desarrollada en ASP.NET Web Forms bajo la arquitectura lógica de tres capas (Presentación, Negocio y Datos) integrando el patrón de diseño MVP (Model-View-Presenter). 
+
+En esta fase final de entrega (100\%), el sistema evolucionó de un simple registro (CRUD) a una plataforma transaccional completa y multi-rol. Se integraron reglas de negocio estrictas, seguridad basada en sesiones, y el control concurrente de la base de datos para garantizar la integridad de los datos académicos.
+
+\section{Nuevas Funcionalidades Implementadas}
+
+\subsection{Autenticación y Gestión de Roles}
+Se implementó un sistema de \textit{Login} que valida las credenciales contra la base de datos. Utilizando el objeto \texttt{Session} del servidor, la aplicación ahora distingue entre dos roles de usuario:
+\begin{itemize}
+    \item \textbf{Administrador:} Tiene acceso total al CRUD de actividades (Crear, Editar, Cancelar) y posee privilegios para visualizar los reportes de las reseñas.
+    \item \textbf{Estudiante:} Posee una vista restringida. Solo puede visualizar las actividades publicadas, inscribirse a ellas (si hay cupos) y calificar las actividades a las que ha asistido.
+\end{itemize}
+
+\subsection{Motor Transaccional de Inscripciones}
+El núcleo lógico del sistema fue desarrollado utilizando Transacciones SQL explícitas (\texttt{SqlTransaction}) en la Capa de Datos (DAL). Esto asegura el principio ACID de las bases de datos:
+\begin{enumerate}
+    \item Se verifica en tiempo real que la actividad cuente con cupos disponibles (mayor a cero).
+    \item Se registra la inscripción del estudiante en la tabla \texttt{Inscripcion}.
+    \item Se descuenta de forma atómica un cupo de la tabla \texttt{ActividadAcademica}.
+\end{enumerate}
+Si cualquier paso falla (por ejemplo, si el estudiante intenta inscribirse dos veces, disparando la restricción \texttt{UNIQUE} de la tabla), la transacción ejecuta un \texttt{Rollback}, asegurando que no se descuenten cupos por error.
+
+\subsection{Sistema de Reseñas (Valor Agregado)}
+Como mejora para potenciar la interactividad del sistema (``Milla extra''), se desarrolló un módulo de \textit{Feedback}. Los estudiantes pueden dejar una calificación (1 a 5 estrellas) y un comentario. El administrador cuenta con un botón especial en su panel para generar un reporte y visualizar los comentarios asociados a cada actividad.
+
+\section{Actualización del Modelo Entidad-Relación}
+La base de datos fue expandida para soportar las nuevas lógicas. Se incorporaron restricciones (\texttt{CONSTRAINTS}) clave, como \texttt{CHECK} para evitar calificaciones fuera del rango (1-5) y claves únicas (\texttt{UNIQUE}) para evitar duplicidad en las inscripciones y reseñas.
+
+\begin{figure}[htbp]
+  \centering
+  \framebox{\parbox{0.8\textwidth}{\centering
+    \vspace{3cm}
+    \textbf{Marcador de Imagen: Diagrama ER Actualizado} \\
+    \small\textit{Reemplazar por captura de tablas: Actividad, Usuario, Inscripcion y Resena.}
+    \vspace{3cm}
+  }}
+  \caption{Diagrama consolidado de la base de datos relacional.}
+\end{figure}
+
+\section{Evidencias de Ejecución}
+
+\subsection{Módulo de Acceso (Login)}
+\begin{figure}[htbp]
+  \centering
+  \framebox{\parbox{0.8\textwidth}{\centering
+    \vspace{3cm}
+    \textbf{Marcador de Imagen: Pantalla de Login} \\
+    \small\textit{Captura de pantalla de la ventana de Login.}
+    \vspace{3cm}
+  }}
+  \caption{Interfaz de autenticación del sistema.}
+\end{figure}
+
+\subsection{Vista de Estudiante e Inscripciones}
+\begin{figure}[htbp]
+  \centering
+  \framebox{\parbox{0.8\textwidth}{\centering
+    \vspace{3cm}
+    \textbf{Marcador de Imagen: Vista Estudiante} \\
+    \small\textit{Captura mostrando el listado con los botones de "Inscribirme" y "Calificar".}
+    \vspace{3cm}
+  }}
+  \caption{Interfaz restringida y funcional para el rol Estudiante.}
+\end{figure}
+
+\subsection{Vista de Administrador y Reporte de Reseñas}
+\begin{figure}[htbp]
+  \centering
+  \framebox{\parbox{0.8\textwidth}{\centering
+    \vspace{3cm}
+    \textbf{Marcador de Imagen: Vista Admin y Reporte} \\
+    \small\textit{Captura mostrando el formulario de registro y la tabla de reseñas desplegada.}
+    \vspace{3cm}
+  }}
+  \caption{Panel administrativo y visualización de la milla extra (Reseñas).}
+\end{figure}
+
+\section{Conclusiones Finales}
+Se ha cumplido al 100\% con los requerimientos técnicos y funcionales solicitados en la rúbrica de evaluación. La adopción de la arquitectura de tres capas y el patrón MVP resultó fundamental para separar la lógica de presentación de las reglas de negocio, permitiendo agregar características complejas (como el motor transaccional y el sistema de roles) sin afectar la estabilidad de la interfaz web. El proyecto es escalable, mantenible y seguro.
+
+\end{document}
